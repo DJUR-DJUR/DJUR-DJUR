@@ -3,7 +3,7 @@
 My name is Dmytro
 
 * From Ukraine 💛💙
-* Living in Dnipro 🏘️
+* Live in Dnipro 🏘️
 * Frontend developer 🧑‍💻
 
 📫 How to reach me: [email (dmytr.zhuravel@gmail.com)](mailto:dmytr.zhuravel@gmail.com)
